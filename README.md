@@ -16,10 +16,12 @@ Users should be able to:
 
 ### Screenshot
 
-### Links
+![alt text](<Screenshot 2026-02-09 032343.png>)
 
-- Live Site URL:
-- Solution URL:
+
+### Links
+- Live Site URL: https://recipe-page-alpha-rouge.vercel.app/
+- Solution URL: https://github.com/GodwinOkon112/Recipe-page
 
 ## My process
 
