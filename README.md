@@ -1,6 +1,6 @@
 ## Overview
 
-This project is a solution to the **Recipe Page** challenge from Frontend Mentor.
+This project is a solution to the Recipe Page challenge from Frontend Mentor.
 The goal was to build a clean, responsive recipe layout using semantic HTML and CSS while closely following the provided design.
 
 It focuses on proper document structure, accessibility, and neat content presentation.
